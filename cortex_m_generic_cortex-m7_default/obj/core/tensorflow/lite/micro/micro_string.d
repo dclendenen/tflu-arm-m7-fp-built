@@ -1,0 +1,30 @@
+tensorflow/lite/micro/tools/make/gen/cortex_m_generic_cortex-m7_default/obj/core/tensorflow/lite/micro/micro_string.o: \
+ tensorflow/lite/micro/micro_string.cc \
+ tensorflow/lite/micro/micro_string.h \
+ /home/david/git/tflite-micro/tensorflow/lite/micro/tools/make/downloads/gcc_embedded/arm-none-eabi/include/c++/10.2.1/cstdarg \
+ /home/david/git/tflite-micro/tensorflow/lite/micro/tools/make/downloads/gcc_embedded/arm-none-eabi/include/c++/10.2.1/arm-none-eabi/thumb/v7e-m/nofp/bits/c++config.h \
+ /home/david/git/tflite-micro/tensorflow/lite/micro/tools/make/downloads/gcc_embedded/arm-none-eabi/include/c++/10.2.1/arm-none-eabi/thumb/v7e-m/nofp/bits/os_defines.h \
+ /home/david/git/tflite-micro/tensorflow/lite/micro/tools/make/downloads/gcc_embedded/arm-none-eabi/include/c++/10.2.1/arm-none-eabi/thumb/v7e-m/nofp/bits/cpu_defines.h \
+ /home/david/git/tflite-micro/tensorflow/lite/micro/tools/make/downloads/gcc_embedded/lib/gcc/arm-none-eabi/10.2.1/include/stdarg.h \
+ /home/david/git/tflite-micro/tensorflow/lite/micro/tools/make/downloads/gcc_embedded/arm-none-eabi/include/c++/10.2.1/cstdint \
+ /home/david/git/tflite-micro/tensorflow/lite/micro/tools/make/downloads/gcc_embedded/lib/gcc/arm-none-eabi/10.2.1/include/stdint.h \
+ /home/david/git/tflite-micro/tensorflow/lite/micro/tools/make/downloads/gcc_embedded/arm-none-eabi/include/stdint.h \
+ /home/david/git/tflite-micro/tensorflow/lite/micro/tools/make/downloads/gcc_embedded/arm-none-eabi/include/machine/_default_types.h \
+ /home/david/git/tflite-micro/tensorflow/lite/micro/tools/make/downloads/gcc_embedded/arm-none-eabi/include/sys/features.h \
+ /home/david/git/tflite-micro/tensorflow/lite/micro/tools/make/downloads/gcc_embedded/arm-none-eabi/include/_newlib_version.h \
+ /home/david/git/tflite-micro/tensorflow/lite/micro/tools/make/downloads/gcc_embedded/arm-none-eabi/include/sys/_intsup.h \
+ /home/david/git/tflite-micro/tensorflow/lite/micro/tools/make/downloads/gcc_embedded/arm-none-eabi/include/sys/_stdint.h \
+ /home/david/git/tflite-micro/tensorflow/lite/micro/tools/make/downloads/gcc_embedded/arm-none-eabi/include/c++/10.2.1/cstring \
+ /home/david/git/tflite-micro/tensorflow/lite/micro/tools/make/downloads/gcc_embedded/arm-none-eabi/include/string.h \
+ /home/david/git/tflite-micro/tensorflow/lite/micro/tools/make/downloads/gcc_embedded/arm-none-eabi/include/_ansi.h \
+ /home/david/git/tflite-micro/tensorflow/lite/micro/tools/make/downloads/gcc_embedded/arm-none-eabi/include/newlib.h \
+ /home/david/git/tflite-micro/tensorflow/lite/micro/tools/make/downloads/gcc_embedded/arm-none-eabi/include/sys/config.h \
+ /home/david/git/tflite-micro/tensorflow/lite/micro/tools/make/downloads/gcc_embedded/arm-none-eabi/include/machine/ieeefp.h \
+ /home/david/git/tflite-micro/tensorflow/lite/micro/tools/make/downloads/gcc_embedded/arm-none-eabi/include/sys/reent.h \
+ /home/david/git/tflite-micro/tensorflow/lite/micro/tools/make/downloads/gcc_embedded/arm-none-eabi/include/_ansi.h \
+ /home/david/git/tflite-micro/tensorflow/lite/micro/tools/make/downloads/gcc_embedded/lib/gcc/arm-none-eabi/10.2.1/include/stddef.h \
+ /home/david/git/tflite-micro/tensorflow/lite/micro/tools/make/downloads/gcc_embedded/arm-none-eabi/include/sys/_types.h \
+ /home/david/git/tflite-micro/tensorflow/lite/micro/tools/make/downloads/gcc_embedded/arm-none-eabi/include/machine/_types.h \
+ /home/david/git/tflite-micro/tensorflow/lite/micro/tools/make/downloads/gcc_embedded/arm-none-eabi/include/sys/lock.h \
+ /home/david/git/tflite-micro/tensorflow/lite/micro/tools/make/downloads/gcc_embedded/arm-none-eabi/include/sys/cdefs.h \
+ /home/david/git/tflite-micro/tensorflow/lite/micro/tools/make/downloads/gcc_embedded/arm-none-eabi/include/sys/string.h
